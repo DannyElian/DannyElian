@@ -1,27 +1,24 @@
 <div align="center">
 
-<img src="banner.svg" alt="Danny Medina. Odoo, Python y ERP." width="100%"/>
+<img src="banner.png" alt="Danny Medina. Odoo, Python y ERP." width="100%"/>
 
-**Desarrollo módulos de Odoo para contabilidad en producción.**
-Conciliación, pagos, varias monedas y documentos fiscales, siempre sobre el motor contable de Odoo.
-
-[marcos.do](https://marcos.do)
+**Desarrollo software para empresas que trabajan con Odoo.**
+Módulos del ERP, backend en Python y las pantallas, reportes y automatizaciones que el equipo usa cada día.
 
 </div>
 
-## Qué resuelvo
+## Qué hago
 
-| Área | Cómo lo abordo |
-| --- | --- |
-| Conciliación de pagos | Sugerencias con un puntaje explicable. La conciliación se confirma en Odoo, no en un libro paralelo. |
-| Pagos y anticipos | Recibos, pagos parciales y varias facturas cubiertas por un mismo movimiento. |
-| Multimoneda | Montos, tasas y diferencias de cambio con la contabilidad nativa. |
-| Cumplimiento fiscal | Reportes y documentos para la operación de empresas en República Dominicana. |
-| Extensión del ERP | Herencia de modelos, vistas e informes. El núcleo de Odoo no se modifica. |
+- Módulos de Odoo adaptados al proceso del negocio, no a un solo departamento
+- Backend en Python, modelos, reglas y flujos que se mantienen cuando Odoo se actualiza
+- Pantallas, informes y documentos que el usuario entiende sin una guía al lado
+- Integración con lo que Odoo ya trae: contabilidad, ventas, compras, inventario y operaciones
 
 ## Cómo trabajo
 
-El código de clientes y los módulos comerciales viven en repositorios privados. Lo que publico aquí es el criterio con el que los construyo: cambios acotados, compatibles con el estándar de Odoo y pensados para que un contador pueda explicar cada asiento.
+Construyo sobre el estándar de Odoo. Heredo modelos, vistas e informes y dejo el núcleo intacto, para que el sistema se pueda actualizar y el cambio se pueda explicar.
+
+El código de clientes y los módulos comerciales están en repositorios privados.
 
 ## Stack
 
@@ -29,4 +26,4 @@ Python · Odoo · PostgreSQL · XML · QWeb · JavaScript · Git
 
 ## Contacto
 
-Danny Medina · [GitHub](https://github.com/DannyElian) · [Marcos](https://marcos.do)
+Danny Medina · [github.com/DannyElian](https://github.com/DannyElian)
