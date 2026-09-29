@@ -1,24 +1,32 @@
-# Danny Medina
+<div align="center">
 
-Desarrollador de software enfocado en **Odoo** y backend en **Python**. Diseño y mantengo funcionalidades de ERP para contabilidad, facturación, pagos y cumplimiento fiscal de empresas en República Dominicana.
+<img src="banner.svg" alt="Danny Medina. Odoo, Python y ERP." width="100%"/>
 
-Trabajo en [Marcos](https://marcos.do).
+**Desarrollo módulos de Odoo para contabilidad en producción.**
+Conciliación, pagos, varias monedas y documentos fiscales, siempre sobre el motor contable de Odoo.
 
-## Especialidad
+[marcos.do](https://marcos.do)
 
-- Módulos de contabilidad, facturación y pagos sobre Odoo
-- Conciliación, recibos de pago y operaciones en varias monedas
-- Reportes y documentos fiscales para la operación en República Dominicana
-- Extensiones del ERP por herencia de modelos, vistas e informes, sin modificar el núcleo
+</div>
 
-## Tecnologías
+## Qué resuelvo
 
-Python · Odoo · PostgreSQL · QWeb · XML · JavaScript · Git
+| Área | Cómo lo abordo |
+| --- | --- |
+| Conciliación de pagos | Sugerencias con un puntaje explicable. La conciliación se confirma en Odoo, no en un libro paralelo. |
+| Pagos y anticipos | Recibos, pagos parciales y varias facturas cubiertas por un mismo movimiento. |
+| Multimoneda | Montos, tasas y diferencias de cambio con la contabilidad nativa. |
+| Cumplimiento fiscal | Reportes y documentos para la operación de empresas en República Dominicana. |
+| Extensión del ERP | Herencia de modelos, vistas e informes. El núcleo de Odoo no se modifica. |
 
-## Sobre este perfil
+## Cómo trabajo
 
-El código de clientes y los módulos comerciales están en repositorios privados. Aquí dejo el contexto de lo que construyo: cambios acotados, compatibles con el estándar de Odoo y pensados para contabilidad en producción.
+El código de clientes y los módulos comerciales viven en repositorios privados. Lo que publico aquí es el criterio con el que los construyo: cambios acotados, compatibles con el estándar de Odoo y pensados para que un contador pueda explicar cada asiento.
+
+## Stack
+
+Python · Odoo · PostgreSQL · XML · QWeb · JavaScript · Git
 
 ## Contacto
 
-[github.com/DannyElian](https://github.com/DannyElian)
+Danny Medina · [GitHub](https://github.com/DannyElian) · [Marcos](https://marcos.do)
